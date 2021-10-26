@@ -200,7 +200,7 @@ Las historias de usuario son los elementos más específicos del backlog, contie
   - **Quiero**: Acción
   - **Para**: Beneficio
 - **Puntos:** Esfuerzo que le va a tomar al equipo de desarrollo terminar una tarea.
-- **Criterios de aceptación: **¿Cómo identificamos que la tarea fue completada?
+- **Criterios de aceptación:** ¿Cómo identificamos que la tarea fue completada?
 
 Dentro la definición de historia de usuario vamos a entender como completo, cuando por ejemplo:
 
@@ -243,7 +243,7 @@ Esta herramienta nos va a servir para estimar las historias de usuarios. Podemos
 - **Fibonacci modificado:** (0, 1/2, 1, 2, 3, 5, 8, 13, 20, 40, ?)
 - **Potencia de 2:** (1, 2, 4, 8, 16, 32, 64, ?)
 
-- **Velocidad:**Total de puntos de las HU completadas por el equipo durante un sprint.
+- **Velocidad:** Total de puntos de las HU completadas por el equipo durante un sprint.
 - **Capacidad:** Total de HU que se pueden completar en un sprint futuro.
 
 https://planningpokeronline.com/
