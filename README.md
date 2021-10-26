@@ -78,7 +78,9 @@ Scrum se basa en la teoría del empirismo, el cual asegura que el conocimiento p
 
 ## Componentes de SCRUM
 
--- ANEXAR IMAGEN DE SCRUM
+<div align="center">
+  <img src="img/SCRUM.png">
+</div>
 
 - **Equipo de Scrum**: El equipo de Scrum es auto organizado y multifuncional.
 
@@ -100,7 +102,10 @@ Scrum se basa en la teoría del empirismo, el cual asegura que el conocimiento p
 
 ## El equipo SCRUM
 
---ANEXAR IMAGEN DEL TEAM
+<div align="center">
+  <img src="img/ScrumTeam.png">
+</div>
+
 SCRUM a maximizado al equipo para optimizar la flexibilidad, creatividad y productividad, para lograr llegar a un objetivo, con el fin de que ocurran tres cosas:
 
 1. Entregar producto de forma iterativa
@@ -110,7 +115,10 @@ SCRUM a maximizado al equipo para optimizar la flexibilidad, creatividad y produ
 El equipo de scrum debe evitar dependencias externas y organizarse en base a funcionalidades o componentes.
 
 **Forma tu equipo de SCRUM**
---ANEXAR IMAGEN DE FORMAR EQUIPO
+
+<div align="center">
+  <img src="img/formaEquipo.png">
+</div>
 
 ## Product Owner (Dueño del Producto)
 
@@ -244,7 +252,11 @@ https://planningpokeronline.com/
 El backlog del sprint va a ser un subconjunto de elementos de la lista del producto y estas historias de usuario son las que vamos a trabajar y los objetivos que queremos cumplir.
 
 **Lista de pendientes del Sprint**
---ANEXAR IMAGEN DEL TABLERO CON LA LISTA DE PENDIENTES
+
+<div align="center">
+  <img src="img/ListaPendientes.png">
+</div>
+
 Debe estar lo suficientemente detallado para que el equipo sea capaz de comprenderlo en los daily stand-ups
 
 El dueño del backlog del sprint es el equipo de desarrollo, y ellos tienen control sobre esta lista y están en su derecho de rechazar otras historias. Sin embargo el Product owner podrá dialogar con el equipo para bajar la prioridad o eliminar historias de usuarios
@@ -270,7 +282,9 @@ _Observar las tablas del excel._
 
 Es el corazón de Scrum, es un período de tiempo determinado (1-4 semanas) en que se crea un incremento del producto.
 
---ANEXAR IMAGEN DEL CICLO DE SCRUM SPRINT
+<div align="center">
+  <img src="img/CicloScrumSprint.png">
+</div>
 
 - **Planeación**: Que se va a trabajar.
 - **Scrum diario:** Reunión para discutir el progreso.
@@ -307,7 +321,9 @@ Nadie puede responder correos, llamadas, ni mensajes, deben estar concentrados e
   - El PO se encarga de aclarar cualquier duda con una HU.
   - Pueden haber invitados que aporten valor (cliente, usuario final).
 
---ANEXAR IMAGENES 4 PASOS DEL PROCESO DEL SPRINT
+<div align="center">
+  <img src="img/ProcesosSprint.png">
+</div>
 
 ## Daily stand-up (El seguimiento del proyecto)
 
@@ -362,7 +378,9 @@ En base a estas respuestas vamos a hacer un plan de acción para aplicar las cor
 
 Scrum es capaz de funcionar con proyectos de 10 personas como proyectos de 100 y más. La forma en como está diseñado Scrum permite enfrentar proyectos de distintos niveles de complejidad.
 
---ANEXAR IMAGENES DE EQUIPOS
+<div align="center">
+  <img src="img/EuiposScrums.png">
+</div>
 
 Scrum of Scrums es una reunión donde frecuentemente se encuentran miembros de todos los equipos y que permite coordinar esfuerzos entre los dintintos equipos de la organización.
 
