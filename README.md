@@ -316,7 +316,7 @@ Nadie puede responder correos, llamadas, ni mensajes, deben estar concentrados e
   - Se discute también el objetivo a lograr en el sprint.
   - Saber la capacidad del equipo y la velocidad de la última iteración.
 
-- **¿Qué puede entregarse al final del sprint?**
+- **¿Cómo se logrará hacer este trabajo?**
   - Las HU pasan de la lista de producto al backlog del srpint.
   - Se hacen las estimaciones de esfuerzo.
   - El PO se encarga de aclarar cualquier duda con una HU.
