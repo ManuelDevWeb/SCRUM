@@ -323,7 +323,7 @@ Nadie puede responder correos, llamadas, ni mensajes, deben estar concentrados e
   - Pueden haber invitados que aporten valor (cliente, usuario final).
 
 <div align="center">
-  <img src="img/ProcesosSprint.png">
+  <img src="img/ProcesoSprint.png">
 </div>
 
 ## Daily stand-up (El seguimiento del proyecto)
