@@ -298,7 +298,7 @@ Todos los sprints deben de tener un objetivo claro y el equipo de desarrollo lo 
 ## Planeando el Sprint
 
 **¿Qúe es el Planning?.**
-El sprint planning es la ceremonia donde definimos las histotias de usuario que se van a desarrollar durante el srpint. Debe estar presente todo el equipo de Scrum: SM, PO y equipo de desarrollo.
+El sprint planning es la ceremonia donde definimos las histotias de usuario que se van a desarrollar durante el sprint. Debe estar presente todo el equipo de Scrum: SM, PO y equipo de desarrollo.
 
 **¿Qué duración debe tener el planning?.**
 No debe durar más de 8 horas para sprints de 4 semanas. Normalmente esta ceremonia puede durar 1 hora para un sprint de 2 semanas.
