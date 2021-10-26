@@ -90,11 +90,11 @@ Scrum se basa en la teoría del empirismo, el cual asegura que el conocimiento p
 
 - **Eventos de Scrum**: En Scrum existen eventos predefinidos con el fin de crear regularidad y minimizar la necesidad de reuniones no definidas en Scrum.
 
-  - ** Sprint**: Es el corazón de Scrum donde se crea un incremento del producto.
+  - **Sprint**: Es el corazón de Scrum donde se crea un incremento del producto.
   - **Planificación de Sprint (Sprint planning)**: Ceremonia para definir qué se hará durante el sprint.
-  - ** Scrum Diario (Daily stan-up)**: Reunión diaria de todo el equipo de desarrollo.
-  - ** Revisión de Sprint (Sprint review)**: Es donde se muestra el incremento desarrollado durante el sprint.
-  - ** Retrospectiva de Sprint (Sprint retrospective)**: Oportunidad para aplicar mejora continua.
+  - **Scrum Diario (Daily stan-up)**: Reunión diaria de todo el equipo de desarrollo.
+  - **Revisión de Sprint (Sprint review)**: Es donde se muestra el incremento desarrollado durante el sprint.
+  - **Retrospectiva de Sprint (Sprint retrospective)**: Oportunidad para aplicar mejora continua.
 
 - **Artefactos de Scrum**: Son aquellos elementos que definen que quiere el cliente, pero son visibles para todas las personas que trabajan en el proyecto.
   - **Lista del producto (Product Backlog)**: Es una lista ordenada de todo lo que se conoce que es necesario en el producto.
@@ -194,12 +194,12 @@ Las historias de usuario son los elementos más específicos del backlog, contie
 
 **Componentes de la Historia de Usuario**
 
-- **Titulo:**¿De qué se trata la tarea?
-- **Descripción: **¿Cómo se deben realizar las historias?
+- **Titulo:** ¿De qué se trata la tarea?
+- **Descripción:** ¿Cómo se deben realizar las historias?
   - **Como:** Rol
   - **Quiero**: Acción
   - **Para**: Beneficio
-- **Puntos: **Esfuerzo que le va a tomar al equipo de desarrollo terminar una tarea.
+- **Puntos:** Esfuerzo que le va a tomar al equipo de desarrollo terminar una tarea.
 - **Criterios de aceptación: **¿Cómo identificamos que la tarea fue completada?
 
 Dentro la definición de historia de usuario vamos a entender como completo, cuando por ejemplo:
@@ -217,12 +217,13 @@ Las tres C's
 - Confirmación: Confirmar que todos entendieron lo mismo.
 
 **Las historias de usuario se caracterizan por**
-**I** - Independiente, no debe depender de otra historia de usuario.
-**N** - Negociable. si la historia es muy grande dividirla en tareas pequeñas.
-**V**- Valiosa, Debe entregar valor al cliente.
-**E** - Estimable, cuánto esfuerzo requiere.
-**S** - Small, debe ser pequeña.
-**T** - Testable, se debe validar su funcionalidad.
+
+- **I** Independiente, no debe depender de otra historia de usuario.
+- **N** Negociable. si la historia es muy grande dividirla en tareas pequeñas.
+- **V** Valiosa, Debe entregar valor al cliente.
+- **E** Estimable, cuánto esfuerzo requiere.
+- **S** Small, debe ser pequeña.
+- **T** Testable, se debe validar su funcionalidad.
 
 ## Estimas historias de usuario
 
@@ -242,8 +243,8 @@ Esta herramienta nos va a servir para estimar las historias de usuarios. Podemos
 - **Fibonacci modificado:** (0, 1/2, 1, 2, 3, 5, 8, 13, 20, 40, ?)
 - **Potencia de 2:** (1, 2, 4, 8, 16, 32, 64, ?)
 
-**Velocidad: **Total de puntos de las HU completadas por el equipo durante un sprint.
-**Capacidad: ** Total de HU que se pueden completar en un sprint futuro.
+- **Velocidad:**Total de puntos de las HU completadas por el equipo durante un sprint.
+- **Capacidad:** Total de HU que se pueden completar en un sprint futuro.
 
 https://planningpokeronline.com/
 
@@ -272,9 +273,9 @@ El dueño del backlog del sprint es el equipo de desarrollo, y ellos tienen cont
 
 En cualquier momento del Sprint el equipo puede analizar el progreso hecho y revisar si aún se puede cumplir el objetivo planeado al inicio de la iteración. Con base a los puntos de la historia.
 
-- ** Burn down chart: **Un gráfico de trabajo pendiente a lo largo del tiempo, muestra la velocidad a la que se estan completando los objetivos. Permite extrapolar si el equipo podrá completarel trabajo en el tiempo estimado. Usualmente el trabajo remanente (backlog) se muestra en el eje vertical y el tiempo en el eje horizontal. Muy util para realizar adaptaciones entre los sprints.
-- **Burn up chart: **Muestra el trabajo aportado por el equipo a un proyecto agíl. Util para gestionar el trabajo porque permite tomar decisiones realistas acerca del trabajo pendiente y las expectativas del mismo. Ayuda a encontrar el ritmo sostenible del equipo. Además cuando la velocidad de éste se estabiliza (normalmenteal cabo de 4-5 sprints), podemos hacer un cálculo de cúando podría acabarse el proyecto.
-- **Diagrama de flujo acumulado: **Proporciona una visualizacion concisa de las metricas de flujo. Muestra que tan estable es tu flujo y te ayuda a entender dónde concentrarse para hacer que tu proceso sea más predecible.
+- **Burn down chart:** Un gráfico de trabajo pendiente a lo largo del tiempo, muestra la velocidad a la que se estan completando los objetivos. Permite extrapolar si el equipo podrá completarel trabajo en el tiempo estimado. Usualmente el trabajo remanente (backlog) se muestra en el eje vertical y el tiempo en el eje horizontal. Muy util para realizar adaptaciones entre los sprints.
+- **Burn up chart:** Muestra el trabajo aportado por el equipo a un proyecto agíl. Util para gestionar el trabajo porque permite tomar decisiones realistas acerca del trabajo pendiente y las expectativas del mismo. Ayuda a encontrar el ritmo sostenible del equipo. Además cuando la velocidad de éste se estabiliza (normalmenteal cabo de 4-5 sprints), podemos hacer un cálculo de cúando podría acabarse el proyecto.
+- **Diagrama de flujo acumulado:** Proporciona una visualizacion concisa de las metricas de flujo. Muestra que tan estable es tu flujo y te ayuda a entender dónde concentrarse para hacer que tu proceso sea más predecible.
 
 _Observar las tablas del excel._
 
@@ -296,13 +297,13 @@ Todos los sprints deben de tener un objetivo claro y el equipo de desarrollo lo 
 
 ## Planeando el Sprint
 
-**¿Qúe es el Planning?**
+**¿Qúe es el Planning?.**
 El sprint planning es la ceremonia donde definimos las histotias de usuario que se van a desarrollar durante el srpint. Debe estar presente todo el equipo de Scrum: SM, PO y equipo de desarrollo.
 
-**¿Qué duración debe tener el planning?**
+**¿Qué duración debe tener el planning?.**
 No debe durar más de 8 horas para sprints de 4 semanas. Normalmente esta ceremonia puede durar 1 hora para un sprint de 2 semanas.
 
-**Funciones del Scrum Master en el Planning**
+**Funciones del Scrum Master en el Planning.**
 Es el encargado de organizar esta ceremonia, debe ser en un lugar adecuado, un salón lo suficientemente grande para el equipo, puede haber pizarrón, si se necesita sala de videoconferencia para hablar con un cliente. El Scrum Master debe encargarse de que todo esté y que todo funcione.
 
 Nadie puede responder correos, llamadas, ni mensajes, deben estar concentrados en el srpint planning, y todo el equipo debe estar concentrado en la misma actividad.
@@ -350,7 +351,7 @@ Estas sesiones pueden ocurrir al menos una vez durante el sprint, donde todo el 
 
 ## Mostrando y Aprendiendo: Demos y retrospectivas
 
-**Sprint Review**
+**Sprint Review.**
 Es una ceremonia donde interactuamos con el cliente, el objetivo es tener retroalimentación rápida, normalmente se hace en el último día del sprint y revisaremos que hemos aprendido , le mostraremos al cliente que logramos desarrollar, se puede mostrar por partes durante la semana o todo al final del sprint. Ojo aquí no mostramos presentaciones o documentos, aquí solo se muestra el producto.
 
 Si no se logran cumplir los objetivos, tenemos que ser siempre transparentes y tratar de resolverlo par el siguiente sprint. Es una reunión informal y abierta al diálogo, no es una reunión de seguimiento.
