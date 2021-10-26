@@ -45,7 +45,7 @@ Promueven el desarrollo sostenido.
 1. **Desarrollo sostenible**: El ritmo de desarrollo debe ser constante de forma indefinida.
 1. **Mejora continua**: Gracias a que las metodologías ágiles son iterativas, se puede ver que se hizo bien y que se puede mejorar para la próxima iteración.
 1. **Simplicidad**: Priorizar y hacer el trabajo que esta bien definido en ese preciso momento.
-1. **Auto-organización**: El equipo debe ser capas de tomar sus propias decisiones.
+1. **Auto-organización**: El equipo debe ser capaz de tomar sus propias decisiones.
 1. **Auto-evaluación**: El equipo debe ser capaz de ajustar y perfeccionar su comportamiento para mejorar.
 
 ## SCRUM
